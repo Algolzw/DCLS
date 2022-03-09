@@ -8,7 +8,7 @@ Based on [[DAN](https://github.com/greatlog/DAN)], [[MMSR](https://github.com/op
 
 ### Updates
 [**2022.03.09**] We released the code and provided the pretrained model weights [here](https://drive.google.com/drive/folders/135xCCLWSylBaNxh6B3I_UnCeox8AkVzC?usp=sharing).  
-[**2022.03.02**] Our paper has accepted by CVPR 2022.
+[**2022.03.02**] Our paper has been accepted by CVPR 2022.
 
 
 ![DCLS](figs/ts.png)
