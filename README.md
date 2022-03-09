@@ -86,10 +86,10 @@ python3 test.py -opt=options/setting1/test_setting1_x4.yml
 
 ## Results
 
-###Comparison on Isotropic Gaussian kernels (Gaussian8)
+### Comparison on Isotropic Gaussian kernels (Gaussian8)
 ![ISO kernel](figs/fig_iso.png)
 
-###Comparison on Anisotropic Gaussian kernels (DIV2KRK)
+### Comparison on Anisotropic Gaussian kernels (DIV2KRK)
 ![ANISO kernel](figs/fig_aniso.png)
 
 
