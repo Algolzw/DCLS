@@ -6,7 +6,7 @@ This is the official implementation of 'Deep Constrained Least Squares for Blind
 
 
 ### Updates
-[**2022.03.15**] **Note!!! All codes and models have been moved to this [repository](https://github.com/megvii-research/DCLS-SR).**  
+[**2022.03.15**] **Note!!! We will not maintain this repository after April. All codes and models will move to [here](https://github.com/megvii-research/DCLS-SR).**  
 [**2022.03.09**] We released the code and provided the pretrained model weights [here](https://drive.google.com/drive/folders/135xCCLWSylBaNxh6B3I_UnCeox8AkVzC?usp=sharing).  
 [**2022.03.02**] Our paper has been accepted by CVPR 2022.
 
