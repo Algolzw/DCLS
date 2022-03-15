@@ -2,12 +2,11 @@
 ## Deep Constrained Least Squares for Blind Image Super-Resolution
 [[Paper](https://arxiv.org/pdf/2202.07508)]
 
-This is the official implementation of 'Deep Constrained Least Squares for Blind Image Super-Resolution', CVPR 2022.  
-Based on [[DAN](https://github.com/greatlog/DAN)], [[MMSR](https://github.com/open-mmlab/mmediting)] and [[BasicSR](https://github.com/xinntao/BasicSR)].  
+This is the official implementation of 'Deep Constrained Least Squares for Blind Image Super-Resolution', CVPR 2022.    
 
 
 ### Updates
-[**2022.03.15**] <font color="red">**Note!!! All codes and models will be moved to another repository later.**</font> 
+[**2022.03.15**] <font color="red">**Note!!! All codes and models will be moved to another repository later.**</font>  
 [**2022.03.09**] We released the code and provided the pretrained model weights [here](https://drive.google.com/drive/folders/135xCCLWSylBaNxh6B3I_UnCeox8AkVzC?usp=sharing).  
 [**2022.03.02**] Our paper has been accepted by CVPR 2022.
 
@@ -109,3 +108,6 @@ The following is a BibTeX reference.
 
 ## Contact
 email: [ziwei.ro@gmail.com]
+
+## Acknowledgement
+This project is based on [[DAN](https://github.com/greatlog/DAN)], [[MMSR](https://github.com/open-mmlab/mmediting)] and [[BasicSR](https://github.com/xinntao/BasicSR)].
